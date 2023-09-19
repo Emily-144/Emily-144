@@ -4,7 +4,7 @@
 
 &#127891; I am a CS student at UW-Madison!  
 &#129300; I'm interested in everything Computer Science!  
-&#128221; I am currently learning Java in my studies, but also love to experiment (learning Python and SQL in my free time)
+&#128221; I am currently learning Java in my studies, but also love to experiment (learning Python and SQL in my free time)  
 &#128236; I am open to new opportunities! Feel free to contact me through any of the platforms below! 
 
 #### Have a great day!  
