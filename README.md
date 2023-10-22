@@ -6,7 +6,8 @@
 &#129300; I'm interested in everything Computer Science!  
 &#128221; I am currently learning Java in my studies, but also love to experiment (learning Python, SQL, and Linux in my free time)  
 &#128170; I strive to always be learning and expanding on my skills!  
-&#128236; I am open to new opportunities! Feel free to contact me through any of the platforms below!   
+&#128236; I am open to new opportunities! You can contact me through any of the platforms below!   
+&#9999; Please note that I cannot upload projects I've completed at UW-Madison for copyright reasons. Feel free to ask me about them though!
 
 #### Have a great day!  
 
