@@ -4,10 +4,9 @@
 
 &#127891; I am a CS & Mathematics student!  
 &#129300; I'm interested in everything tech!  
-&#128221; I am currently learning Java in my studies, but also love to experiment (learning Python, SQL, and Linux in my free time)  
-&#128170; I strive to always be learning and expanding on my skills :)  
-&#128236; I have accepted a SWE position for 2025, but I am open to part-time work until then; you can contact me through any of the platforms below   
-&#9999; Please note that I cannot upload projects I've completed at school for copyright reasons. Feel free to ask me about them though!
+&#128221; Currently using C and Python in school, but I first learned programming with Swift and Java  
+&#128170; I strive to always be learning and expanding on my skills :)   
+&#9999; I can't publicly upload school projects for copyright reasons, but feel free to ask me about them!
 
 #### Have a great day!  
 
