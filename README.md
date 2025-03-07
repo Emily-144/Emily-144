@@ -25,25 +25,26 @@
 :pencil2: I can't publicly upload school projects for copyright reasons, but feel free to ask me about them!
 
 <!--- Sweet stats --->
-## GitHub Stats :sparkles:
-<div align="center">
-  <br>
-  <table>
-    <tr>
-      <td>
-        <img img height=200 align="center" src="https://streak-stats.demolab.com/?user=Emily-144&theme=nightowl" alt="GitHub Streak" />
-      </td>
-      <td>
-        <!---
-          Fun fact: These only record public stats, and I have plenty of private repos that I use for school projects.
-          Otherwise, I'm sure C would surpass Java... thanks to my machine organization and OS courses
-        --->
-        <img img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emily-144&layout=compact&theme=nightowl" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emily-144&border_radius=15&theme=nightowl" alt="GitHub Activity Graph" />
-</div>
+<details><summary><h2>GitHub Stats :sparkles:</h2></summary>
+  <div align="center">
+    <br>
+    <table>
+      <tr>
+        <td>
+          <img img height=200 align="center" src="https://streak-stats.demolab.com/?user=Emily-144&theme=nightowl" alt="GitHub Streak" />
+        </td>
+        <td>
+          <!---
+            Fun fact: These only record public stats, and I have plenty of private repos that I use for school projects.
+            Otherwise, I'm sure C would surpass Java... thanks to my machine organization and OS courses
+          --->
+          <img img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emily-144&layout=compact&theme=nightowl" />
+        </td>
+      </tr>
+    </table>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emily-144&border_radius=15&theme=nightowl" alt="GitHub Activity Graph" />
+  </div>
+</details>
 
 <!---
   Since you've scrolled this far... why not connect with me elsewhere? Haha just kidding... unless?
