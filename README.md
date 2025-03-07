@@ -28,13 +28,20 @@
 ## GitHub Stats :sparkles:
 <div align="center">
   <br>
-  <img img height=200 align="center" src="https://streak-stats.demolab.com/?user=Emily-144&theme=nightowl" alt="GitHub Streak" /> <span>&nbsp</span>
-  <!---
-    Fun fact: These only record public stats, and I have plenty of private repos that I use for school projects.
-    Otherwise, I'm sure C would surpass Java... thanks to my machine organization and OS courses
-  --->
-  <img img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emily-144&layout=compact&theme=nightowl" />
-  <br><br>
+  <table>
+    <tr>
+      <td>
+        <img img height=200 align="center" src="https://streak-stats.demolab.com/?user=Emily-144&theme=nightowl" alt="GitHub Streak" />
+      </td>
+      <td>
+        <!---
+          Fun fact: These only record public stats, and I have plenty of private repos that I use for school projects.
+          Otherwise, I'm sure C would surpass Java... thanks to my machine organization and OS courses
+        --->
+        <img img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emily-144&layout=compact&theme=nightowl" />
+      </td>
+    </tr>
+  </table>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emily-144&border_radius=15&theme=nightowl" alt="GitHub Activity Graph" />
 </div>
 
@@ -57,4 +64,5 @@
   https://github.com/DenverCoder1/github-readme-streak-stats
   https://github.com/anuraghazra/github-readme-stats
   https://github.com/Ashutosh00710/github-readme-activity-graph
+  https://github.com/alexandresanlim/Badges4-README.md-Profile
 -->
